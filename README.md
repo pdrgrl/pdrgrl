@@ -32,34 +32,3 @@ Engineering student focused on 3D design, AI/ML systems, and multimedia developm
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
-
-## What I'm Working On
-
-- **IMDb Watchlist Picker** — personal film discovery tool
-- **3D Reconstruction** — photogrammetry of historical machinery in Blender
-- **RAG Backend** — Python, Gemini API, and vector databases
-- **Game Prototype** — Unity-based design and development
-- **Music Production** — composition, mixing, and sound design in FL Studio
-
----
-
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdrgrl&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrgrl&layout=compact&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-pdrgrl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pdrgrl)
-![Profile Views](https://komarev.com/ghpvc/?username=pdrgrl&color=blue&style=for-the-badge)
-
-</div>
