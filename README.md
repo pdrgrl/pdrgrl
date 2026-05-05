@@ -2,7 +2,7 @@
 
 # Pedro G.
 
-**The GOD**  
+**Computer & Multimedia Engineer**  
 Lisboa, Portugal
 
 </div>
